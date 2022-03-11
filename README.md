@@ -14,7 +14,7 @@ medusa new awesome-store
 
 ```
 
-### Seeding the database
+### Setting up medusa and seed the database with demo products
 
 ```
 medusa new awesome-store --seed
