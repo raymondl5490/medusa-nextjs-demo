@@ -1,30 +1,8 @@
 Medusa is a complete open source Shopify alternative . It was originally created in collaboration with a client, Tekla Fabrics, to provide them with a scalable and unique ecommerce setup.
 
-## What actually is Medusajs ?
+## What is Medusajs ?
 
 Medusa is an open source alternative to Shopify that provides many of the same standard features that Shopify's backend provides out of the box, such as E2E order handling, an easy-to-use admin interface, and so on, but it is more heavily focused on giving users and developers the flexibility to customize the solution and take ownership of the entire commerce stack.Furthermore, medusa aimed to address some of Shopify's common backend issues, such as full multi-regional support (local currency, shipment, and payment options) and fully automated exchange and claim handling.
-
-## What exactly is Medusajs's primary aim?
-
-Medusajs aims to lower the bar for developers and merchants by allowing them to start building their ecommerce headless without having to build everyhting from scratch. Headless approach to commerce has been an enterprise exclusive for many years. Frontend developers would be required to build the client side or the storefront, while backend developers would be required to maintain the infrastructure and services. Medusa's primary goal is to lower the barrier for developers and merchants to enter the headless commerce space. It does so by eliminating the need for a complex infrastructure through a clever plugin architecture. Unlike other headless platforms, which require connectors and translation layers to connect the commerce engine to third-party services, the core engine and all plugins run on the same Node.js server. Medusa prioritizes optimizing the developer experience through powerful tooling such as quick-starters guide, awesome and detailed documentation, CLI tool, reference, and so on.
-
-## Medusa on Aviyel
-
-We're excited to welcome Medusa to Aviyel as we work to make Open Source projects more sustainable and to empower developers and communities around the world. At Aviyel, we will collaborate closely with the maintainer and the Medusa community on their journey of growth and sustainability by co-creating contextual content, hosting events/AMAs, and providing support via dedicated Open Source management tools.
-
-### Our primary focus areas would be:
-
-- Community Platform: community gathering place where Maintainers and Aviyel Community Leads collaborate to manage this project and help the Project and the Maintainers bring the community to their new home, as well as to support the expansion of community members within the project by upskilling and spending more time with maintainers, and to empower the community to help the project gain traction.
-
-- Maintainers' Tools and Data: To save time and make data more accessible, all data projects must scale with dashboards and tools.
-
-- Central Hub: The Aviyel team will collaborate with the existing community and Maintainers to host events, discussions, and office hours for all Project-related knowledge and questionnaires.
-
-- Monetization: We believe that once the community and tools have reached critical mass, we will be able to introduce - Aviyel Open Source Monetization.
-
-## What’s next?
-
-Medusa's vision and goal is to accelerate the world's transition to digital native commerce for a broader audience, as well as to create the fundamentally important commerce building blocks that can be composed and mixed to develop innovative digital commerce experiences, and to become the world's #1 open source commerce engine by lowering the bar for when you can begin building headless.
 
 ### ClI tool installation
 
